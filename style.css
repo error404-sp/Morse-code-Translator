@@ -69,6 +69,7 @@ footer{
     height: 30px;
     text-align:center;
     width:100vw;
+    padding-top: 10px;
     font-size: 12px;
 }
 @media (max-width:780px){
